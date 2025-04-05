@@ -1,1 +1,1 @@
-# typescript_self-learning
+TypeScriptの自己学習用リポジトリ
